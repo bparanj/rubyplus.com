@@ -1,0 +1,19 @@
+Customers can:
+
+- Checkout a digital product
+- Download a purchased product
+- One click checkout
+- Register for an account
+- Subscribe to a plan
+- Access all the subscribers only content
+
+Lead can:
+- Subscribe to Rails mailing list
+
+Visitors can:
+- View list of articles and read article
+
+Admin
+- Can create and edit article
+- Create episodes for video content
+
